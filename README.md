@@ -98,7 +98,7 @@
 
 ###
 
-<h3 align="left">Em 2025, ainda na EFG estudei durante o ano lógica de programação em javascript, iniciei framework, React, Práticas profissionais e Projeto integrador. E participei do Edital de inovação criando um nobreak, apredendo o mínimo de programação em C e Arduíno.</h3>
+<h3 align="left">Em 2025, ainda na EFG estudei durante o ano lógica de programação em javascript, iniciei<br> framework, React, Práticas profissionais e Projeto integrador. E participei do Edital<br> de inovação criando um nobreak, apredendo o mínimo de programação em C e Arduíno.</h3>
 
 ###
 
